@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Camera access is required to run augmented reality and place objects in your space.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Motion data is used to align AR content with device orientation.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Microphone access may be needed for future AR recording or voice interaction.</string>
+</dict>
+</plist>
