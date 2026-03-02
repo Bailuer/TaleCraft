@@ -1,6 +1,6 @@
 # TaleCraft
 
-> An interactive reading and experience app for **inclusivity**, **wellbeing**, and **youth mental health** — Swift Student Challenge entry (work in progress).
+> An interactive reading and experience app for **inclusivity**, **wellbeing**, and **youth mental health** (work in progress).
 
 [![Swift 6](https://img.shields.io/badge/Swift-6-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/Platform-iOS%2016%2B-blue.svg)](https://developer.apple.com/ios/)
@@ -10,7 +10,7 @@
 
 ## About
 
-TaleCraft combines storytelling, sound, and accessibility into a safe, explorable space for young users. The app is designed to use Apple’s **Liquid Glass** design language and **1–2 challenging frameworks** (e.g. Core ML, Swift Charts) as required by the Swift Student Challenge. The current repo holds an **early prototype**: draw on screen in AR and your strokes become 3D objects in the real world.
+TaleCraft combines storytelling, sound, and accessibility into a safe, explorable space for young users. The app is designed to use Apple’s **Liquid Glass** design language and frameworks such as Core ML and Swift Charts. The current repo holds an **early prototype**: draw on screen in AR and your strokes become 3D objects in the real world.
 
 ---
 
@@ -34,7 +34,7 @@ TaleCraft combines storytelling, sound, and accessibility into a safe, explorabl
 - **AVSpeechSynthesizer** — voice narration  
 - **Accessibility** — VoiceOver, Dynamic Type, high-contrast  
 
-**Planned interactions** (inspired by winning SSC apps): scene-linked scrolling, tap-to-trigger sound/haptics, choose-your-path reading, emotion/volume sliders, achievement cards, voice narration, full accessibility.
+**Planned interactions**: scene-linked scrolling, tap-to-trigger sound/haptics, choose-your-path reading, emotion/volume sliders, achievement cards, voice narration, full accessibility.
 
 ---
 
@@ -99,15 +99,6 @@ TaleCraft/
 
 ---
 
-## Swift Student Challenge (SSC) essay tips
-
-1. **Why this app** — Link your interests (story, sound, mental health, inclusivity) to the goal: a safe, explorable space that uses story and sound to reduce anxiety and support expression.
-2. **Development process** — Idea → tech choices (Liquid Glass, Core ML, Swift Charts) → AR + drawing prototype → planned story, soundscapes, persistence.
-3. **Challenges** — e.g. sharing `ARView` and raycasting across SwiftUI, PencilKit, and RealityKit; or prioritizing a working prototype vs. full story + theme under time limits.
-4. **Inclusivity** — Describe planned VoiceOver, Dynamic Type, high-contrast, narration, and emotion/volume controls.
-
----
-
 ## Project info
 
 | | |
@@ -115,7 +106,7 @@ TaleCraft/
 | **Bundle ID** | `com.bailueryu.Talecraft` |
 | **Platform**  | iOS 16.0+, iPhone & iPad |
 | **Category** | Education |
-| **Status**   | Swift Student Challenge entry — incomplete; current state is an AR + PencilKit prototype. |
+| **Status**   | Work in progress; current state is an AR + PencilKit prototype. |
 
 ---
 
