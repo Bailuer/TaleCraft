@@ -4,7 +4,7 @@
 
 [![Swift 6](https://img.shields.io/badge/Swift-6-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/Platform-iOS%2016%2B-blue.svg)](https://developer.apple.com/ios/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 ---
 
@@ -112,7 +112,7 @@ TaleCraft/
 
 ## License
 
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
+This project is licensed under the **GNU General Public License v3.0** — see [LICENSE](LICENSE) for details.
 
 ---
 
